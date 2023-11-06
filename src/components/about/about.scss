@@ -1,0 +1,21 @@
+
+.about{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    position: relative;
+    top: 10%;
+    width: 75%;
+    margin: auto;
+}
+.heading{
+    font-size: larger;
+}
+
+.content{
+    position: relative;
+    padding-top: 70px;
+    gap: 20px;
+    line-height: 1.9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
